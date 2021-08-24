@@ -1,0 +1,52 @@
+body{
+  background-color:   #808080;
+	border: solid white 10px;
+	border-radius: 20px;
+
+	padding-right: 50px;
+	padding-bottom: 20px;
+
+	padding-left: 70px;
+    background:   #808080;
+    margin-left: 400px;
+    margin-top: 100px;
+    margin-right: 400px;
+  
+
+}
+.container{
+  max-width: 400px;
+}
+input[type=text],
+input[type=text]:{
+
+}
+.todos li{
+  background:   #808080;
+  padding-left: 10px;
+  padding-top: 10px;
+
+}
+.delete{
+  cursor: pointer;
+ 
+  padding-left: 20px;
+  margin-left: 100%;
+  
+  
+  
+}
+.filtered {
+  display:none !important;
+}
+
+input[type=text]{
+
+	width:100%;
+	padding: 10px;
+}
+ul{
+	border:solid white 2px;
+	border-radius: px;
+}
+
